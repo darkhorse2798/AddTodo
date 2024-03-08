@@ -1,0 +1,8 @@
+input{
+  width:55%;
+  border-radius: 5px;
+}
+
+.myBtn{
+    min-width: 100px;
+}
